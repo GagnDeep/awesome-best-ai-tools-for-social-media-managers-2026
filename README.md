@@ -35,6 +35,17 @@ Open source matters for social teams because content operations move fast, budge
 
 ### Social Publishing, Automation, and Trend Workflows
 
+#### [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)
+> **Description:** BulkPublish provides an API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels. Its `skills/social-media-content-skills` collection gives agents repeatable workflows for content operations, while the BulkPublish API provides the publishing and scheduling layer for connecting those workflows to social platforms. This makes it useful for social media managers who want an agent-compatible, multi-channel publishing workflow rather than a standalone caption generator.
+
+- **GitHub:** [github.com/azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api)
+- **Stars:** 1 ⭐
+- **Language:** TypeScript
+- **License:** MIT
+- **Last Commit:** September 2, 2026
+- **Category:** scheduling, publishing, ai agents
+- **Best for:** Agent-driven planning, review, scheduling, and multi-channel social publishing
+
 #### [Postiz](https://github.com/gitroomhq/postiz-app)
 > **Description:** Postiz is one of the few public GitHub repositories that is directly built for social media scheduling rather than general AI ops. Its README positions it as an alternative to Buffer, Hypefury, and similar posting suites, with analytics, collaboration, API support, and many AI-assisted posting features across major networks. For social media managers, that makes it the clearest fit in this list for planning and publishing. GitHub showed `27.6k` stars, `TypeScript` as the primary language, an `AGPL-3.0` license, and a last commit on `March 23, 2026`.
 
